@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Carta para Mamá</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.carta {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.saludo {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+.cuerpo {
+  margin-bottom: 20px;
+}
+.despedida {
+  font-style: italic;
+  text-align: right;
+}
+</style>
+</head>
+<body>
+<div class="carta">
+  <p class="saludo">Querida Mamá,</p>
+  <div class="cuerpo">
+    <p>Te escribo este mensaje con todo mi amor y gratitud. No tengo palabras para expresar lo mucho que te aprecio y cuánto te amo.</p>
+    <p>Gracias por ser mi guía, mi apoyo y mi mejor amiga. Gracias por todo lo que has hecho por mí.  Por cada sacrificio, cada lágrima y cada sonrisa.</p>
+    <p>Eres la mejor mamá del mundo y te quiero mucho.</p>
+  </div>
+  <p class="despedida">Con todo mi amor,</p>
+  <p class="despedida">Tu hija/o</p>
+</div>
+</body>
+</html>
